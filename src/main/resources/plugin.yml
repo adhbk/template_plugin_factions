@@ -1,0 +1,11 @@
+name: Template
+main: me.adhbk.template.Template
+version: "1.0"
+author: adhbk
+api: "1.8"
+commands:
+   example:
+      description: Fait quelque chose
+      usage: /<command> [player] [taille] [durabilite] [efficiency]
+      permission: <plugin name>.example
+      permission-message: You don't have <permission>
